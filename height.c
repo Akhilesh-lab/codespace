@@ -4,5 +4,5 @@ int main(void)
 {
     int height;
     height = get_float("height in cm ");
-    printf("height is %f\n", height);
+    printf("height is %d\n",height);
 }
